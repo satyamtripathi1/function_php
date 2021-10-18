@@ -1,0 +1,1 @@
+3. without_arg_with_return_type
